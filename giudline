@@ -1,0 +1,4 @@
+for facebook login in need to install soialite
+composer require laravel/socialite
+ for more info:-
+ https://laravel.com/docs/5.8/socialite
